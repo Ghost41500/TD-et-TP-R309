@@ -1,0 +1,14 @@
+{
+  "name": "r309-td1",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "start:https": "node server_https.js",
+    "start:express": "node server_express.js",
+    "test": "node --test \"test/*.test.js\""
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}

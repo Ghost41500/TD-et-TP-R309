@@ -1,0 +1,5 @@
+node_modules/
+*.log
+# certificats et clés générés par TD1/certs/gen-certs.sh
+TD1/certs/*
+!TD1/certs/gen-certs.sh
