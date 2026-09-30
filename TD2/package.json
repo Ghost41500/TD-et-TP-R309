@@ -1,0 +1,9 @@
+{
+  "name": "r309-td2",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "exemple": "node q1_q2_exemple.js",
+    "test": "node --test \"test/*.test.js\""
+  }
+}

@@ -1,0 +1,5 @@
+node_modules/
+*.log
+# certificats et clés générés par certs/gen-certs.sh
+certs/*
+!certs/gen-certs.sh
